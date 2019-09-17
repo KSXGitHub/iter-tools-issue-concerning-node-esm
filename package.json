@@ -1,0 +1,18 @@
+{
+  "name": "iter-tools-issue-concerning-node-esm",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "require-iter-tools-and-print-it": "node require-iter-tools-and-print-it.js",
+    "require-tsfun-and-print-it": "node require-tsfun-and-print-it.js",
+    "import-iter-tools-and-print-it": "node --experimental-modules import-iter-tools-and-print-it.mjs",
+    "import-tsfun-and-print-it": "node --experimental-modules import-tsfun-and-print-it.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tsfun/all": "^0.0.11",
+    "iter-tools": "^6.2.6"
+  }
+}

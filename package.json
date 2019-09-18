@@ -1,5 +1,6 @@
 {
   "name": "iter-tools-issue-concerning-node-esm",
+  "type": "module",
   "version": "0.0.0",
   "private": true,
   "description": "",

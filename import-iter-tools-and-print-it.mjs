@@ -1,2 +1,2 @@
-import * as all from 'iter-tools/es2018/index.mjs'
+import * as all from 'iter-tools'
 console.log(all)

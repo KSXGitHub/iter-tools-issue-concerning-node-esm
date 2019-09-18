@@ -1,2 +1,2 @@
-import * as all from '@tsfun/all/index.mjs'
+import * as all from '@tsfun/all'
 console.log(all)
